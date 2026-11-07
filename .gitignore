@@ -1,0 +1,30 @@
+# This repository contains code only. Data and outputs stay on the local machine.
+
+# Data and outputs
+*.bdf
+*.set
+*.fdt
+*.mat
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.zip
+*.png
+*.pdf
+*.edf
+
+# Data folders
+derivatives/
+sourcedata/
+RAW/
+EXCEL RS/
+EEG with events/
+QC_*/
+sub-*/
+
+# MATLAB and OS files
+*.asv
+*.m~
+.DS_Store
+Thumbs.db
